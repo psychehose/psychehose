@@ -39,7 +39,7 @@
 
 <div align="center">
   <br><br>
-  <h4> Side Project
+  <h3> Side Project </h3>
 </div>
 
 <div align="center">
