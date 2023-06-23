@@ -7,8 +7,9 @@
 <div align="center">
   <br><br>
   <body>
-    <h3> SNS </h3>
-    <a href="https://overengineering-for-psychehose.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat&logo=Tistory&logoColor=white"/></a>
+    <h3> ME </h3>
+   <a href="https://psychehose.notion.site/0fc5097a66e445cf966d66301deecc94?pvs=4"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+    <a href="https://overengineering-for-psychehose.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
   </body>
 </div>
 
