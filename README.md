@@ -54,7 +54,7 @@
   <br><br>
   <h3> Problem Solving</h3>
     <br>
-  <img src="https://leetcard.jacoblin.cool/psychehose?theme=dark&font=Baloo%202&ext=heatmap" />
+ <a href="https://github.com/psychehose/LeetCode"><img src="https://leetcard.jacoblin.cool/psychehose?theme=dark&font=Baloo%202&ext=heatmap" /></a>
 </div>
 
 
