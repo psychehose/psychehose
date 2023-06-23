@@ -44,15 +44,15 @@
 
 <div align="center">
   <body>
-  <div><p><a href="https://psychehose.notion.site/Hous-385bc448b2e941908ae49d36d7124ecc?pvs=4"><img src="https://rb.gy/a61kr" align="bottom"></a>   공동생활 규칙 체크 어플리케이션</p></div>
-  <div><p><a href=https://psychehose.notion.site/f322e2a2344e4e92afed3022465fed5b?pvs=4><img src="https://rb.gy/4yc08" align="bottom"></a>   온라인 독서 토론 어플리케이션</p></div>
-  <div><p><a href=https://psychehose.notion.site/Ounce-56c9f1c5a67d4ce498ba0a4b03b4da74?pvs=4><img src="https://rb.gy/jz26c" align="bottom"></a>  고양이 사료 기록 어플리케이션</p></div>
+  <div><p><a href="https://psychehose.notion.site/Hous-385bc448b2e941908ae49d36d7124ecc?pvs=4"><img src="https://rb.gy/a61kr" align="bottom"></a>   공동생활 규칙 체크 어플리케이션 - Role: iOS Developer</p></div>
+  <div><p><a href=https://psychehose.notion.site/f322e2a2344e4e92afed3022465fed5b?pvs=4><img src="https://rb.gy/4yc08" align="bottom"></a>   온라인 독서 토론 어플리케이션 - Role: iOS Developer</p></div>
+  <div><p><a href=https://psychehose.notion.site/Ounce-56c9f1c5a67d4ce498ba0a4b03b4da74?pvs=4><img src="https://rb.gy/jz26c" align="bottom"></a>  고양이 사료 기록 어플리케이션 - Role: iOS Developer</p></div>
   </body>
 </div>
 
 <div align="center">
   <br><br>
-  <h3> Problem Solving</h3>
+  <h3> Problem Solving (Click!) </h3>
     <br>
  <a href="https://github.com/psychehose/LeetCode"><img src="https://leetcard.jacoblin.cool/psychehose?theme=dark&font=Baloo%202&ext=heatmap" /></a>
 </div>
