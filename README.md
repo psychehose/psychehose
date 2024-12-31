@@ -19,15 +19,15 @@ https://psychehose.github.io/
 <div align="center">
   <br><br>
   <body>
-    <h2> Interest </h2>
-    <h3>Vision</h3>
-    <h3>Robotics</h3>
-    <h3>Game Engine</h3>
+    <h3> Interest </h3>
+    <h4>Vision</h4>
+    <h4>Robotics</h4>
+    <h4>Game Engine</h4>
    <br>
-    <h2>Language</h2>
-    <h3>C++</h3>
-    <h3>Swift</h3>
-    <h3>Objective - C</h3>
+    <h3>Language</h3>
+    <h4>C++</h4>
+    <h4>Swift</h4>
+    <h4>Objective-C</h4>
   </body>
 </div>
 
