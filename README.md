@@ -3,13 +3,12 @@
 <!-- 
  블로그
 -->
-
+https://psychehose.github.io/
 <div align="center">
   <br><br>
   <body>
     <h3> ME </h3>
-   <a href="https://psychehose.notion.site/0fc5097a66e445cf966d66301deecc94?pvs=4"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
-    <a href="https://overengineering-for-psychehose.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
+    <a href="https://psychehose.github.io"><img src="https://img.shields.io/badge/Tech Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
   </body>
 </div>
 
@@ -20,21 +19,15 @@
 <div align="center">
   <br><br>
   <body>
-    <h3> Enough to work </h3>
-    <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/>
-    <img src="https://img.shields.io/badge/RxSwift-B7178C?style=for-the-badge&logo=reactivex&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Carthage-000000.svg?logo=data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAASABIAAD/4QCMRXhpZgAATU0AKgAAAAgABQESAAMAAAABAAEAAAEaAAUAAAABAAAASgEbAAUAAAABAAAAUgEoAAMAAAABAAIAAIdpAAQAAAABAAAAWgAAAAAAAABIAAAAAQAAAEgAAAABAAOgAQADAAAAAQABAACgAgAEAAAAAQAAAC2gAwAEAAAAAQAAAC0AAAAA/+0AOFBob3Rvc2hvcCAzLjAAOEJJTQQEAAAAAAAAOEJJTQQlAAAAAAAQ1B2M2Y8AsgTpgAmY7PhCfv/AABEIAC0ALQMBIgACEQEDEQH/xAAfAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgv/xAC1EAACAQMDAgQDBQUEBAAAAX0BAgMABBEFEiExQQYTUWEHInEUMoGRoQgjQrHBFVLR8CQzYnKCCQoWFxgZGiUmJygpKjQ1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4eLj5OXm5+jp6vHy8/T19vf4+fr/xAAfAQADAQEBAQEBAQEBAAAAAAAAAQIDBAUGBwgJCgv/xAC1EQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2wBDAAoHCBAREBEOEBEOEBEQDg4REBERERERERARGBMYGBcTFxcbICwkGx0pIBgXJTYlKS4wMzMzGiI5PjkxPSwyMzD/2wBDAQsLCxAOEBcSEhcyICAgMjIyMjIyMjIyMDMyMjIyMjIwMjIyMjIwMjIyMjIyMDIyMjIyMjAwMjAyMjIyMjAyMDL/3QAEAAP/2gAMAwEAAhEDEQA/AOukkqrJJRJJVqxswQsjq0hkYiGEHaZSOrsf4UHc/wCT4dOm5OyPoG1BXZlySe9VpHrpprg7HSORztVgVs7VTCnHKmRgc+5Fc1K4IOfmx142uvvjuK6fZ26mlGfN0/r7kVJJKhJp8yFTjOQeQexHrUWa2hTuazqqK0P/0NqV66K6XmSNSVzNaWII6pEUV3x6E7iPyrk5X6j610ElwssYkLiNbjyB5pzttr+LGwv6K2FGT6Ad682jHf8ArufQV4O8X/W6/wAn+Rk6xqchkeGNmihiZoo4oyUUKpK846k4PWs9JSRuPJQrg9ypOCDWvq1nG7NLMJ7ScgtInkvPbyOOrxyrwAff8utZCgADghcgkkYZyOigV0RptsftYRppRVv679fUbcjC4/uyMB9CM4qoTVi6bop65LN7E9vwFVq7qdI86tXP/9GeR6ksdQkgYlNrK42yRuN0ci+jD+tVSaaa46cNT6itJKLTRvLrEAjZE+32+VI8uKZJIOmMAScqvsMVjNcd1Bz/AHmO4j6elQE0hr0KdO541aoo3sBNNJoJptejTpnj165//9k=&style=for-the-badge&logoColor=white"/>
-    <img src="https://t.ly/ES-u">
-    <img src="https://t.ly/07e4">
-    <br>
-    <h3>I'm learning...</h3>
-    <img src="https://t.ly/BbJMK">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+    <h2> Interest </h2>
+    <h3>Vision</h3>
+    <h3>Robotics</h3>
+    <h3>Game Engine</h3>
+   <br>
+    <h2>Language</h2>
+    <h3>C++</h3>
+    <h3>Swift</h3>
+    <h3>Objective - C</h3>
   </body>
 </div>
 
