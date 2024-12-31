@@ -3,12 +3,11 @@
 <!-- 
  블로그
 -->
-https://psychehose.github.io/
 <div align="center">
   <br><br>
   <body>
     <h3> ME </h3>
-    <a href="https://psychehose.github.io"><img src="https://img.shields.io/badge/Tech Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
+    <a href="https://psychehose.github.io"><img src="https://img.shields.io/badge/Tech Blog-000000?style=for-the-badge&logo=obsidian&logoColor=white"/></a>
   </body>
 </div>
 
